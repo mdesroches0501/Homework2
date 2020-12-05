@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mdesroches/Homework2/Q1/src/main/scala/MostMentions.scala:30:18: value saveAsTextFile is not a member of Array[(String, Int)][0m[0J
+[0m[[0m[31merror[0m] [0m[0m        mentions.saveAsTextFile(outputData)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mone error found[0m[0J

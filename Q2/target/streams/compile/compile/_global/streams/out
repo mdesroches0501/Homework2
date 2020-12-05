@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mdesroches/Homework2/Q2/src/main/scala/MostPopularUsers.scala:25:35: not found: value line[0m[0J
+[0m[[0m[31merror[0m] [0m[0m        val users1 = users.filter(line.contains("LA") ||  line.contains("Los Angels"))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0m/home/mdesroches/Homework2/Q2/src/main/scala/MostPopularUsers.scala:25:59: not found: value line[0m[0J
+[0m[[0m[31merror[0m] [0m[0m        val users1 = users.filter(line.contains("LA") ||  line.contains("Los Angels"))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m[0J
